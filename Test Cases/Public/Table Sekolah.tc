@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Table Sekolah</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8fc8c270-5b2e-4fea-bb87-b6cee9f086a9</testCaseGuid>
+</TestCaseEntity>

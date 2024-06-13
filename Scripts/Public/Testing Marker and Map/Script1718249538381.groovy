@@ -17,3 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://127.0.0.1:8000/')
+
+WebUI.click(findTestObject('Object Repository/Page_Data Sekolah Kabupaten Tabalong/div_Leaflet'))
+
+WebUI.click(findTestObject('Object Repository/Page_Data Sekolah Kabupaten Tabalong/span_'))
+
+WebUI.click(findTestObject('Object Repository/Page_Data Sekolah Kabupaten Tabalong/a_'))
+
+WebUI.doubleClick(findTestObject('Object Repository/Page_Data Sekolah Kabupaten Tabalong/span_'))
+
+WebUI.click(findTestObject('Object Repository/Page_Data Sekolah Kabupaten Tabalong/span_'))
+
+WebUI.closeBrowser()
+

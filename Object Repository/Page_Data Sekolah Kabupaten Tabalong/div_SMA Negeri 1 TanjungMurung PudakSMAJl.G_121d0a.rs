@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SMA Negeri 1 TanjungMurung PudakSMAJl.G_121d0a</name>
+   <tag></tag>
+   <elementGuidId>186cfa7a-17bc-44f2-a225-10cff11ae59c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='map']/div/div[6]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.leaflet-popup-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7e0739f2-0914-49d2-8d1e-2913c1099209</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>leaflet-popup-content</value>
+      <webElementGuid>eebbab15-db17-4eb0-892e-11969cd55a03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SMA Negeri 1 TanjungMurung PudakSMAJl.Gelatik Komplek Pertamina Murung Pudak Kab.Tabalong Prov. Kalimantan Selatan</value>
+      <webElementGuid>61edaa2e-05db-4e2c-946c-7d3091943e9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;map&quot;)/div[@class=&quot;leaflet-pane leaflet-map-pane&quot;]/div[@class=&quot;leaflet-pane leaflet-popup-pane&quot;]/div[@class=&quot;leaflet-popup  leaflet-zoom-animated&quot;]/div[@class=&quot;leaflet-popup-content-wrapper&quot;]/div[@class=&quot;leaflet-popup-content&quot;]</value>
+      <webElementGuid>7bf3c654-d150-44a0-b675-50dc757b1269</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='map']/div/div[6]/div/div/div</value>
+      <webElementGuid>87647afb-47bb-4519-886d-b97c30f9dc98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peta Kabupaten Tabalong'])[1]/following::div[18]</value>
+      <webElementGuid>c3029706-4eb1-4606-9d0c-1880ce3818ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Peta'])[1]/following::div[22]</value>
+      <webElementGuid>65ebfd0a-0c96-4d74-8e8c-1d5e877fbbde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leaflet'])[1]/preceding::div[8]</value>
+      <webElementGuid>5d7f080b-afa8-46f5-a36b-d406f3bd4dc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div</value>
+      <webElementGuid>a9871bb5-77d8-4756-bdf9-f51957e10499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SMA Negeri 1 TanjungMurung PudakSMAJl.Gelatik Komplek Pertamina Murung Pudak Kab.Tabalong Prov. Kalimantan Selatan' or . = 'SMA Negeri 1 TanjungMurung PudakSMAJl.Gelatik Komplek Pertamina Murung Pudak Kab.Tabalong Prov. Kalimantan Selatan')]</value>
+      <webElementGuid>c2c82ddc-a390-468a-a9b6-f36e0f7e55d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

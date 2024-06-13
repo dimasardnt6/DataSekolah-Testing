@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>View sekolah from selected data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>04ad4545-ef3a-439c-af4b-59b7c1c73687</testCaseGuid>
+</TestCaseEntity>

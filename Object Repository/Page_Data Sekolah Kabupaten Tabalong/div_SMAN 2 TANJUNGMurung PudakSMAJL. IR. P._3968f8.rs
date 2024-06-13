@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SMAN 2 TANJUNGMurung PudakSMAJL. IR. P._3968f8</name>
+   <tag></tag>
+   <elementGuidId>8c72a71d-49ce-4c41-9f36-2cafd22ce66f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='map']/div/div[6]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.leaflet-popup-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>01598c2f-86e2-42a7-9d74-e0b7542df4d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>leaflet-popup-content</value>
+      <webElementGuid>9cd9b2ce-304d-445e-842b-2d2ac8c49a2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SMAN 2 TANJUNGMurung PudakSMAJL. IR. P. H. M. NOOR MABUUN, Mabuun, Kec. Murung Pudak, Kab. Tabalong Prov. Kalimantan Selatan</value>
+      <webElementGuid>aa4ebd3d-6f0c-4eb7-81a6-6681fe52307a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;map&quot;)/div[@class=&quot;leaflet-pane leaflet-map-pane&quot;]/div[@class=&quot;leaflet-pane leaflet-popup-pane&quot;]/div[@class=&quot;leaflet-popup  leaflet-zoom-animated&quot;]/div[@class=&quot;leaflet-popup-content-wrapper&quot;]/div[@class=&quot;leaflet-popup-content&quot;]</value>
+      <webElementGuid>fd90bec6-f1ca-4060-9a07-703d389ece32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='map']/div/div[6]/div/div/div</value>
+      <webElementGuid>b429d549-23c0-41b4-b878-9eec885dd825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peta Kabupaten Tabalong'])[1]/following::div[19]</value>
+      <webElementGuid>d16e7397-c08b-4ffe-83bf-bad48cf13493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Peta'])[1]/following::div[23]</value>
+      <webElementGuid>6b8e83de-511c-42b6-a491-c012e6a8efb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leaflet'])[1]/preceding::div[8]</value>
+      <webElementGuid>bba6451c-9d28-458d-be29-564ea40ad302</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div</value>
+      <webElementGuid>9eef5372-5775-4280-bb88-b0e3d2bddbf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SMAN 2 TANJUNGMurung PudakSMAJL. IR. P. H. M. NOOR MABUUN, Mabuun, Kec. Murung Pudak, Kab. Tabalong Prov. Kalimantan Selatan' or . = 'SMAN 2 TANJUNGMurung PudakSMAJL. IR. P. H. M. NOOR MABUUN, Mabuun, Kec. Murung Pudak, Kab. Tabalong Prov. Kalimantan Selatan')]</value>
+      <webElementGuid>bee69f34-acb2-4987-ad93-b2fc20e5a09a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

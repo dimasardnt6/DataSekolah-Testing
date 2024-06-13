@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Filter data table by school level</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>06b293f7-5d68-4c3c-abcb-370f4d8b2d38</testCaseGuid>
+</TestCaseEntity>
