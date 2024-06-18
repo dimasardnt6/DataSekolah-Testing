@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Admin - Read Data Sekolah - Detail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>29bcff15-75a7-4073-bdbe-a48e6e57a058</testCaseGuid>
+</TestCaseEntity>

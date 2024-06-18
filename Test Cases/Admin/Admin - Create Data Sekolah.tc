@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Admin - Create Data Sekolah</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>906b06d3-6258-45b8-9576-4c7dbe58d580</testCaseGuid>
+</TestCaseEntity>

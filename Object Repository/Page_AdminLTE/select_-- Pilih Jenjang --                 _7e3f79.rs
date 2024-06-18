@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Pilih Jenjang --                 _7e3f79</name>
+   <tag></tag>
+   <elementGuidId>02042f50-f944-45f9-9301-88a7501bb71f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#InputJenjang</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='InputJenjang']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9718dee6-0471-4968-8e8e-06fc157dcc38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>jenjang</value>
+      <webElementGuid>155472ee-11fa-439f-a5cf-f06e298fcf84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>InputJenjang</value>
+      <webElementGuid>629f9f5b-0653-4f2e-bcf0-68b7c47c9e3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>d6dac3c0-474a-49d7-9a1a-cdb50d063f53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    -- Pilih Jenjang --
+                                    SD
+                                    SMP
+                                    SMA
+                                </value>
+      <webElementGuid>b65162b6-0822-4047-a438-d5267c34fdc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;InputJenjang&quot;)</value>
+      <webElementGuid>de2a343f-d965-4745-879c-fe86fb47a353</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='InputJenjang']</value>
+      <webElementGuid>9b46c086-03b4-47d0-a66d-db67e23f518f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[2]/following::select[1]</value>
+      <webElementGuid>d38b1f6e-3937-4b11-b6e1-e1b014c1c285</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenjang'])[1]/following::select[1]</value>
+      <webElementGuid>49abfa0f-7b23-4768-a2f5-ba24162b2d98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat'])[1]/preceding::select[1]</value>
+      <webElementGuid>00a553c0-09fb-4c9c-801d-8793db750819</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[3]/preceding::select[1]</value>
+      <webElementGuid>f45d1857-4217-4d3a-8c41-650accb9a85c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>ae84524a-4327-4d9c-b963-b9d1cbd0c59d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'jenjang' and @id = 'InputJenjang' and (text() = '
+                                    -- Pilih Jenjang --
+                                    SD
+                                    SMP
+                                    SMA
+                                ' or . = '
+                                    -- Pilih Jenjang --
+                                    SD
+                                    SMP
+                                    SMA
+                                ')]</value>
+      <webElementGuid>4215bb6c-6b9d-4cbe-b03c-3d64b39f6aaa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

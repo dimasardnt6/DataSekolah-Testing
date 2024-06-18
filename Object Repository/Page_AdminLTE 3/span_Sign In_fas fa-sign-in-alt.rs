@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign In_fas fa-sign-in-alt</name>
+   <tag></tag>
+   <elementGuidId>a8fe874b-c703-4e4f-985a-c49f21e39833</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.fas.fa-sign-in-alt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f2a98622-cb4c-4e60-b4c7-7de031ff7c43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-sign-in-alt</value>
+      <webElementGuid>8b1a4356-19a8-4701-a4ea-13e58e44cd4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;login-page&quot;]/div[@class=&quot;login-box&quot;]/div[@class=&quot;card card-outline card-primary&quot;]/div[@class=&quot;card-body login-card-body&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-5&quot;]/button[@class=&quot;btn btn-block btn-flat btn-primary&quot;]/span[@class=&quot;fas fa-sign-in-alt&quot;]</value>
+      <webElementGuid>7442fff8-20af-424c-b449-77d20731758b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>f7aa9be5-5050-4884-ae64-5d0e1bf4eb31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

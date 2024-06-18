@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Admin - Read Data Sekolah - Table</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e472dde0-a3e3-4528-84d3-4698ddeb76f6</testCaseGuid>
+</TestCaseEntity>

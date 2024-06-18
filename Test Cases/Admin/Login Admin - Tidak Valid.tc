@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Admin - Tidak Valid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a29bcfc7-f2ad-4248-b1fe-c695947f02ea</testCaseGuid>
+</TestCaseEntity>
